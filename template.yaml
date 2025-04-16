@@ -7,7 +7,7 @@ resources:
   paper: # https://openreview.net/
   arxiv: None
   code: None
-  video: https://www.youtube.com/embed/MmjwnIh54oo?si=eTipXVmsCa2MP76B
+  video: https://www.youtube.com/embed/fAxmMzeYLuI?si=rdkfiukzl7zH_K7I
   demo: 
   huggingface: 
 description: Project page for MTU3D
