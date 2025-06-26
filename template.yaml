@@ -59,19 +59,11 @@ affiliations:
   - Beihang University
 meta:
 bibtex: >
-  @article{doe2024superai,
-    author    = {Jane Doe and John Smith},
-    title     = {Unleashing the Power of Super AI: Transforming the Future of Technology},
-    journal   = {Journal of Superintelligent Systems},
-    year      = {2024},
-    volume    = {99},
-    number    = {1},
-    pages     = {1-42},
-    month     = {January},
-    keywords  = {Super AI, Machine Learning, Artificial Intelligence, Technological Innovation},
-    doi       = {10.9999/jsis.2024.001},
-    url       = {https://www.example.com/superai-article},
-    note      = {This paper sets the benchmark for future AI research and applications.}
+  @article{zhu2025mtu,
+    title = {Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation},
+    author = {Zhu, Ziyu and Wang, Xilin and Li, Yixuan and Zhang, Zhuofan and Ma, Xiaojian and Chen, Yixin and Jia, Baoxiong and Liang, Wei and Yu, Qian and Deng, Zhidong and Huang, Siyuan and Li, Qing},
+    journal = {International Conference on Computer Vision (ICCV)},
+    year = {2025}  
   }
 
 teaser: mtu3d-teaser.png
