@@ -2,7 +2,7 @@ theme: classic # default || classic || dark
 organization: BIGAI
 twitter: '@BIGAI'
 title: "Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation"
-journal: "Arxiv"
+journal: "ICCV2025"
 resources:
   paper: # https://openreview.net/
   arxiv: None
@@ -73,7 +73,7 @@ abstract: |
   To address this limitation, we introduce **M**ove **t**o **U**nderstand (**MTU3D**), a unified framework that integrates active perception with 3D vision-language learning, enabling embodied agents to effectively explore and understand their environment.
    This is achieved by three key innovations: 1) *Online query-based representation learning*, enabling direct spatial memory construction from RGB-D frames, eliminating the need for explicit 3D reconstruction.
     2) *A unified objective for grounding and exploring*, which represents unexplored locations as frontier queries and jointly optimizes object grounding and frontier selection. 
-    3) *End-to-end trajectory learning* that combines Vision-Language-Exploration pre-training over a  million diverse trajectories collected from both simulated and real-world RGB-D sequences. Extensive evaluations across various embodied navigation and question-answering benchmarks show that MTU3D outperforms state-of-the-art reinforcement learning and modular navigation approaches by 14\%, 27\%, 11\%, and 3\% in success rate on HM3D-OVON, GOAT-Bench, SG3D, and A-EQA, respectively.
+    3) *End-to-end trajectory learning* that combines Vision-Language-Exploration pre-training over a  million diverse trajectories collected from both simulated and real-world RGB-D sequences. Extensive evaluations across various embodied navigation and question-answering benchmarks show that MTU3D outperforms state-of-the-art reinforcement learning and modular navigation approaches by 14\%, 23\%, 9\%, and 2\% in success rate on HM3D-OVON, GOAT-Bench, SG3D, and A-EQA, respectively.
     MTU3D's versatility enables navigation using diverse input modalities, including categories, language descriptions, and reference images. The deployment on a real robot demonstrates MTU3D's effectiveness in handling real-world data. These findings highlight the importance of bridging visual grounding and exploration for embodied intelligence.
 
 body:
