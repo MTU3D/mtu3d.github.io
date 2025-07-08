@@ -5,8 +5,8 @@ title: "Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration
 journal: "ICCV2025"
 resources:
   paper: # https://openreview.net/
-  arxiv: None
-  code: None
+  arxiv: https://arxiv.org/abs/2507.04047
+  code: https://github.com/MTU3D/MTU3D
   video: https://www.youtube.com/embed/fAxmMzeYLuI?si=rdkfiukzl7zH_K7I
   demo: 
   huggingface: 
